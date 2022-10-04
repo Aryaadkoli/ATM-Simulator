@@ -229,5 +229,3 @@ void showHistory(node **head) {
         }
     }
 }
-
-// ATM Simulator by Aprameya V. Madhwaraj, Arya Adkoli
